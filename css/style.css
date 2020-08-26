@@ -1,9 +1,3 @@
-@font-face {
-    font-family: 'Tahoma';
-    src: url('../fonts/9688.ttf');
-    font-weight: 400;
-    font-style: normal;
-}
 
 * {
     margin: 0;
@@ -36,7 +30,7 @@ img {
 body {
     overflow-x: hidden;
     font-weight: 500;
-    font-family: 'Open Sans',sans-serif;
+    font-family: 'Open Sans', sans-serif;
 
 }
 main {
